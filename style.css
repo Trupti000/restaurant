@@ -93,3 +93,15 @@ img {
 .logo {
    background-color: grey; 
 }
+
+footer h6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(128, 128, 128, 0.406);
+    font-size: 20px;
+
+}
+footer{
+    margin-top: 5%;
+}   
